@@ -3,16 +3,8 @@
 The AI Use Case Generator is a cutting-edge web application that empowers users to discover actionable AI/ML and Generative AI use cases tailored to specific industries. By leveraging advanced search capabilities and powerful language models, this application provides industry insights and AI strategies for enhancing operations, supply chains, and customer experience.
 
 # Features
-Industry Insights
-Automatically identifies the industry of a given company using the DuckDuckGo search API.
-Provides high-level details and context about the company’s domain.
-AI/ML Use Case Recommendations
-Generates comprehensive AI and Generative AI use cases for the inferred industry.
-Focuses on operations, supply chain management, and customer experience.
-Highlights actionable insights and potential challenges.
-Dynamic User Interface
-User-friendly interface built with Streamlit.
-Interactive input and real-time responses.
+![Dr A S N Chakravarthy (2)](https://github.com/user-attachments/assets/6dc554f7-0223-443f-837b-b7257d0eb569)
+
 
 # Application Architecture
 Workflow Overview
