@@ -3,8 +3,8 @@
 The AI Use Case Generator is a cutting-edge web application that empowers users to discover actionable AI/ML and Generative AI use cases tailored to specific industries. By leveraging advanced search capabilities and powerful language models, this application provides industry insights and AI strategies for enhancing operations, supply chains, and customer experience.
 
 # Features
-![Dr A S N Chakravarthy (2)](https://github.com/user-attachments/assets/6dc554f7-0223-443f-837b-b7257d0eb569)
-
+![Dr A S N Chakravarthy (2)](https://github.com/user-attachments/assets/e5ab7aec-a2a4-4a78-b2c9-146c9565e3d0)
+![Red Bold Finance YouTube Thumbnail (1)](https://github.com/user-attachments/assets/3ee9ea50-1a35-428c-bfdc-e28d0c8b7cee)
 
 # Application Architecture
 Workflow Overview
