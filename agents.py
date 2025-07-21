@@ -4,7 +4,7 @@ from huggingface_hub import InferenceClient
 
 # Initialize DuckDuckGoSearchRun and Hugging Face client
 search = DuckDuckGoSearchRun()
-client = InferenceClient(api_key)
+client = InferenceClient(api_key=st.secrets["HUGGINGFACE_KEY"])
 
 # Streamlit App
 st.title("AI Use Case Generator ")
